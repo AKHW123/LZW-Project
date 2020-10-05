@@ -2,7 +2,7 @@
 bin/
 .DS_Store
 .classpath
-**/*class
+**/*.class
 tmp/
 *.tmp
 *.bak
