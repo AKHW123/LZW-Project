@@ -1,5 +1,8 @@
 .metadata
 bin/
+.DS_Store
+.classpath
+**/*class
 tmp/
 *.tmp
 *.bak
