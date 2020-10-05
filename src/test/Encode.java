@@ -3,7 +3,7 @@
  * They spoke the truth when they spoke of handwritten code and BlueJ.
  */
 
-//package test;
+package test;
 
 //imports
 import java.io.BufferedReader;
